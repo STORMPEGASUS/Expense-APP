@@ -1,16 +1,12 @@
-# second_app
+# Expense APP
 
-A new Flutter project.
+A  Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is for tracking daily expense .
 
-A few resources to get you started if this is your first Flutter project:
+Here is the detailed video of this app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/84672906/198892398-1a8d4532-604c-4ec2-8add-336c9e3a1d7e.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
